@@ -1,0 +1,288 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(image/backgroundimg.jpg);
+    background-attachment: fixed;
+
+}
+
+
+.content {
+    margin-left: 2cm;
+    width: fit-content;
+    display: flex;
+
+
+
+
+}
+
+.exe3 {
+    height: 159px;
+}
+
+.exe32 {
+    width: 218px;
+    height: 139px;
+}
+
+.ajaykumar {
+    font-size: 15px;
+    width: 538.867px;
+    margin-top: -3px;
+}
+
+.content h5 {
+    background-color: brown;
+    width: 3.5cm;
+    margin-left: 27.5cm;
+    margin-top: -3.3cm;
+    color: white;
+
+}
+
+.sect li {
+    display: inline-block;
+    color: white;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+
+    font-size: 15px;
+}
+
+.certi {
+    height: 35rem;
+    width: 88rem;
+    background: rgb(4, 4, 42);
+    margin-top: 185px;
+    margin-left: -10px;
+}
+
+.nostudent {
+    display: flex;
+    align-items: center;
+
+
+}
+
+.nostudent div h3 {
+    color: yellow;
+    font-size: 12px;
+    font-size: 32px;
+    padding-left: 85px;
+
+}
+
+.nostudent div p {
+    padding-left: 12px;
+    padding-left: 62px;
+}
+
+
+.NAAC {
+    height: 12cm;
+    width: 8cm;
+    margin-top: 3rem;
+    margin-left: 5cm;
+    border: 5px yellow;
+}
+
+.A2 {
+    font-size: 234px;
+    color: yellow;
+    margin-left: 16cm;
+    margin-top: 1cm;
+
+
+
+}
+
+.Foot {
+    border-top: 2px solid yellow;
+    background-color: rgb(10, 4, 4);
+    padding-right: 4rem;
+    margin-top: 9cm;
+    margin-bottom: 0;
+    display: flex;
+    margin-left: -10px;
+    margin-right: -12px;
+}
+
+
+.Menu h4 {
+    padding-left: 4rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+
+
+}
+
+/* putting image in  */
+.link {
+    padding-left: 21vw;
+
+
+}
+
+/* designing about section */
+
+
+
+.AboutAkgec {
+    color: white;
+    font-size: 14px;
+    padding: 0 0 0 14px;
+    padding-left: 90px;
+}
+
+.imagecontent {
+    display: flex;
+    right: 650px;
+    top: 864px;
+    background-color: white;
+    margin: 0 -10px 0 -9px;
+    padding: 0;
+    margin-bottom: 14px;
+}
+
+.image {
+    position: absolute;
+    right: 100px;
+    top: 900px;
+
+}
+
+footer ul {
+    width: 234px;
+}
+
+.footerlink {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.footerlink:hover {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sect ul li a {
+    text-decoration: none;
+}
+
+.headingnotice {
+    margin: auto;
+    background-color: brown;
+    color: white;
+    margin-bottom: 0;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 4px;
+    height: fit-content;
+    width: fit-content;
+}
+
+.sect ul li a {
+    color: white;
+    font-family: cursive;
+
+}
+
+.sect ul li a:hover {
+    font-weight: bold;
+}
+
+.hr1 {
+    color: #ffcb00;
+    height: 4px;
+    background-color: #ffa700;
+    line-height: 3rem;
+}
+
+.Ourfeatured {
+    text-align: center;
+    font-size: 1em;
+    font-style: oblique;
+    background-color: white;
+    /* width: 1386.93px;
+    height: 34.8px; */
+    margin-left: -7px;
+    margin-top: -1rem;
+    padding-top: 4px;
+    margin-bottom: 3vh;
+
+
+
+}
+
+.horizontalLine {
+    color: #ffcb00;
+    height: 4px;
+    background-color: #ffa700;
+    line-height: 3rem;
+    width: 45px;
+    margin-left: 23vw;
+
+}
+
+.course {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin-left: -12px;
+    border-left-style: solid;
+    padding-bottom: 34px;
+    margin-top: -3vh;
+    margin-right: -5vh;
+
+
+}
+
+.coursebox {
+    border: 2px solid black;
+    margin-left: 9px;
+    border-radius: 0 0 4% 4%
+}
+
+.sanctioned {
+    background-color: white;
+    display: flex;
+
+}
+
+.sanctioned h5 {
+    border: 2px solid yellow;
+    border-radius: 1rem;
+    margin: 0 0 0 10em;
+    height: 19.4px;
+    padding-top: 10px;
+}
+
+.studentPlaced p {
+    color: white;
+    font-size: 5vh;
+}
+
+.nostudent div {
+    padding-left: 12%;
+}
+
+.advantage {
+    display: flex;
+
+    background-color: white;
+    justify-content:  center;
+}
+
+.advantage div {
+    color: red;
+    margin-left: 8vh;
+    border: 2px solid black;
+    border-radius: 2vh;
+    margin-bottom: 3vh;
+    height: 312%;
+}

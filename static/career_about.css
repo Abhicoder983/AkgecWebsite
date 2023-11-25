@@ -1,0 +1,43 @@
+.About{
+    
+    height: 15rem;
+    width: 100%;
+    background-color: black;
+    margin-top: -1.5cm;
+    margin-left: -0.05cm;
+    border-bottom: 3px solid;
+    border-color: yellow;
+}
+.Foot{
+    border-top: 2px solid yellow;
+    background-color: rgb(10, 4, 4);
+    padding-right: 4rem;
+
+}
+.main{
+   text-align: center;
+   position: center;
+    font-size: 45px;
+    color: white;
+}
+.image img{
+    margin-left: 8rem;
+}
+.Menu h4{
+    padding-left: 4rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    margin-top: 1cm;
+
+}
+.link{
+    margin-left: 12cm;
+    margin-top: -15rem;
+    padding-bottom: 1cm ;
+}
+.AboutAkgec{
+    margin-left: 24cm;
+    margin-top: -8cm;
+    padding-bottom: 3cm;
+}

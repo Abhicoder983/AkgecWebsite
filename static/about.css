@@ -1,0 +1,38 @@
+.About{
+    height: 15rem;
+    width: 100%;
+    background-color: black;
+    margin-top: -1.5cm;
+    margin-left: -0.05cm;
+    border-bottom: 3px solid;
+    border-color: yellow;
+}
+.main{
+   text-align: center;
+   position: center;
+    font-size: 45px;
+    color: white;
+}
+.Execellence{
+    font-size: 23px;
+    text-align: center;}
+.highlight{
+    font-size: 50px;
+    margin-left: 45px;
+    color: blue;
+}
+.stone{
+    height: 2cm;
+    width: 80%;
+    background:yellow;
+    font-size: 78px;
+    margin-top: -2cm;
+    margin-left: 4cm;
+    color: rgb(21, 183, 186);
+
+}
+.row2 li{
+    font-size: 18px;
+    color: rgba(21, 20, 20, 0.755);
+    font-family: Arial, Helvetica, sans-serif;
+}
