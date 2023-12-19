@@ -7,4 +7,5 @@ def home(request):
 def about(request):
     return render( request, 'about.html')
 def careers(request):
+    
     return render(request, 'Career.html')
